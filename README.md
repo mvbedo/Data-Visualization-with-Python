@@ -27,25 +27,27 @@ In this project, I utilized Python and various libraries to create a range of da
 
 ## Project Examples
 
-### Column Chart
-
-![Column Chart](path/to/column_chart_image.png)
 
 ### Bar Chart
 
-![Bar Chart](path/to/bar_chart_image.png)
+![Bar Chart](Bar_Chart.png)
 
 ### Pie Chart
 
-![Pie Chart](path/to/pie_chart_image.png)
+![Pie Chart](Pie_1.png)
 
 ### Line Chart
 
-![Line Chart](path/to/line_chart_image.png)
+![Line Chart](Line_Plot_1.png)
 
 ### Scatter Plot
 
-![Scatter Plot](path/to/scatter_plot_image.png)
+![Scatter Plot](Scatter.png)
+
+### Bubble Graph
+
+![Column Chart](Bubble.png)
+
 
 ## Conclusion
 
